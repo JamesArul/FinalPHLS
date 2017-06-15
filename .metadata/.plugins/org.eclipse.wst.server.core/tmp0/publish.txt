@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jun 15 13:42:14 IST 2017
+org.eclipse.jst.j2ee.server\:PhilosophiBackEnd=WEB-INF/lib/PhilosophiBackEnd-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\JOSEPHINE\ ESAA\\.m2\\repository\\org\\springframework\\spring-web\\4.3.6.RELEASE\\spring-web-4.3.6.RELEASE.jar=WEB-INF/lib/spring-web-4.3.6.RELEASE.jar
